@@ -1,0 +1,12 @@
+@import "./default.css";
+
+#login-form {
+  display: flex;
+  flex-direction: column;
+  gap: .3rem;
+  min-width: 300px;
+
+  & h1 {
+    text-align: center;
+  }
+}

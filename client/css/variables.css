@@ -1,0 +1,11 @@
+:root {
+    --clr-main-bg: #c4d1de;
+    --clr-chat-bg: hsl(210, 28%, 90%);
+    --clr-primary: hsl(210, 29%, 35%);
+    --clr-primary-100: hsl(210, 29%, 30%);
+    --clr-primary-200: hsl(210, 29%, 25%);
+    --clr-error: firebrick;
+  
+    --border-radius: .5rem;
+    --shadow: 2px 2px 10px #0000001b, 2px 2px 5px #0000001a;
+  }
